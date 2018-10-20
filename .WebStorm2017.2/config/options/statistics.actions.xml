@@ -1,7 +1,24 @@
 <application>
   <component name="ActionsCollector">
     <counts>
+      <entry action="$Delete" count="1" />
+      <entry action="$Undo" count="4" />
+      <entry action="ChangesView.AddUnversioned.From.Dialog" count="26" />
+      <entry action="ChangesView.DeleteUnversioned" count="1" />
+      <entry action="ChangesView.Ignore" count="1" />
       <entry action="CheckinProject" count="1" />
+      <entry action="DebugClass" count="4" />
+      <entry action="EditorBackSpace" count="9" />
+      <entry action="EditorChooseLookupItem" count="6" />
+      <entry action="EditorCopy" count="7" />
+      <entry action="EditorDelete" count="8" />
+      <entry action="EditorDown" count="14" />
+      <entry action="EditorEnter" count="7" />
+      <entry action="EditorLeft" count="10" />
+      <entry action="EditorPaste" count="8" />
+      <entry action="EditorRight" count="3" />
+      <entry action="EditorUp" count="1" />
+      <entry action="ShowSettings" count="3" />
     </counts>
   </component>
 </application>
